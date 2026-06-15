@@ -215,3 +215,9 @@ Os testes cobrem os principais fluxos da aplicação:
 * Cancelamento de edição
 * Atualização de tarefas
 * Exclusão de tarefas
+
+## Screenshot
+
+<p align="center">
+  <img src="screenshots/image.png" alt="Screenshot da aplicação" width="800">
+</p>
