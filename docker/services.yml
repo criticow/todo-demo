@@ -1,0 +1,13 @@
+name: demo
+services:
+  postgresql:
+    extends:
+      file: ./postgresql/postgresql.yml
+      service: postgresql
+
+networks:
+  demo-net:
+    driver: bridge
+
+volumes:
+  demo-pgdata:
